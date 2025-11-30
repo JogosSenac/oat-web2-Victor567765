@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Conheça o DeliFood!</h1>
+    <p>Pedidos a pronta entrega com Delivery!</p>
+</div>
+<div class="text-center mapContainer">
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30669.11422774247!2d-47.98873601109704!3d-16.084197906622492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurante!5e0!3m2!1spt-BR!2sbr!4v1764281979471!5m2!1spt-BR!2sbr"
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="slider">
+    <div class="text-center">
+        <h2>Peça já o seu!</h2>
+    </div>
+    <div class="slides">
+        <input type="radio" name="radio-btn" id="radio1" checked>
+        <input type="radio" name="radio-btn" id="radio2">
+        <input type="radio" name="radio-btn" id="radio3">
+        <input type="radio" name="radio-btn" id="radio4">
+        <input type="radio" name="radio-btn" id="radio5">
+        <input type="radio" name="radio-btn" id="radio6">
+
+        <div class="first">
+            <div class="slide">
+                <img src="https://imgs.search.brave.com/Btg1zZWRscVClUKMhAtfCOdhMK4cxiWQzzW1wpHtmCA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtZ3JhdGlz/L2RlbGljaW9zby1o/YW1idXJndWVyLWVt/LWVzdHVkaW9fMjMt/MjE1MTg0NjUwNS5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA"
+                    alt="Hambúrguer">
+            </div>
+            <div class="slide">
+                <img src="https://imgs.search.brave.com/A3aaK75wyGbE-3458ipEDUw1ZKIL04RQUtPLUZjpn9o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdDMu/ZGVwb3NpdHBob3Rv/cy5jb20vMTMzNDk0/OTQvMTkzMzkvaS80/NTAvZGVwb3NpdHBo/b3Rvc18xOTMzOTU2/NDQtc3RvY2stcGhv/dG8tY2xvc2Utc2hv/dC10YXN0eS1mcmVu/Y2gtZnJpZXMuanBn"
+                    alt="Batata frita">
+            </div>
+            <div class="slide">
+                <img src="https://imgs.search.brave.com/3JTX_8qGapYia05u6T9vvrPDVBUsuXmyOpsAWCphnLs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtcHJlbWl1/bS9udWdnZXRzLWRl/LWZyYW5nby1mYXN0/LWZvb2QtY29tLWtl/dGNodXAtZW0tdW0t/ZnVuZG8tZXNjdXJv/XzEzNTQyNy01Mjk2/LmpwZz9zZW10PWFp/c19oeWJyaWQ"
+                    alt="Nuggets">
+            </div>
+            <div class="slide">
+                <img src="https://imgs.search.brave.com/UASaMNe13gTmsAMP5Ciytk3AQFyuMc5mBPWCil0mXx4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtZ3JhdGlz/L3BpenphLWl0YWxp/YW5hLWZyZXNjYS1j/b20taWEtZ2VuZXJh/dGl2YS1kZS1mYXRp/YS1kZS1xdWVpam8t/bXVzc2FyZWxhXzE4/ODU0NC0xMjM0Ny5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw"
+                    alt="Pizza">
+            </div>
+            <div class="slide">
+                <img src="https://imgs.search.brave.com/7yNYmXlHgbVIPQoZO-KpTmwcFfKNL4n5ovCCV1mSiWU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjkw/NDUxNTgwL3B0L2Zv/dG8vamFwYW5lc2Ut/Y3Vpc2luZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9Zlpj/N0h2OFd5bDgtbk42/WG8tTWk3SVdURjVf/eE5JU0RUdkZ2NkN0/ZkhmTT0"
+                    alt="Sushi">
+            </div>
+            <div class="slide">
+                <img src="https://imgs.search.brave.com/ib8sIWukqrfCZBRCsXMe94pyOt0BRkmWb7TYxe3U3jc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtZ3JhdGlz/L2JvbGluaGEtY29t/LWNyb3F1ZXRlcy1l/LWd1YXJkYW5hcG8t/ZW0tZnVuZG8tZGVz/YXRpdmFkb18yMy0y/MTQ5MzA2NjYzLmpw/Zz9zZW10PWFpc19o/eWJyaWQmdz03NDAm/cT04MA"
+                    alt="Salgados">
+            </div>
+        </div>
+
+        <div class="navigation-auto">
+            <div class="auto-btn1"></div>
+            <div class="auto-btn2"></div>
+            <div class="auto-btn3"></div>
+            <div class="auto-btn4"></div>
+            <div class="auto-btn5"></div>
+            <div class="auto-btn6"></div>
+        </div>
+    </div>
+
+    <div class="navigation-manual">
+        <label for="radio1" class="manual-btn"></label>
+        <label for="radio2" class="manual-btn"></label>
+        <label for="radio3" class="manual-btn"></label>
+        <label for="radio4" class="manual-btn"></label>
+        <label for="radio5" class="manual-btn"></label>
+        <label for="radio6" class="manual-btn"></label>
+    </div>
+</div>
+
+<div class="food-list-section">
+    <h2 class="food-list-title">Comidas Disponíveis</h2>
+    <div class="food-list-container">
+        <div class="food-list-column">
+            <ul class="food-list">
+                <li><strong>🍔 Hambúrguer Artesanal</strong> - Pão integral, carne 180g, alface, tomate e molho especial
+                    - R$ 22,90</li>
+                <li><strong>🍟 Batata Frita Crocante</strong> - Batata média, sal e tempero especial da casa - R$ 8,90
+                </li>
+                <li><strong>🍗 Nuggets de Frango</strong> - 6 peças de frango empanado, acompanha catupiry ou mostarda -
+                    R$ 15,90</li>
+            </ul>
+        </div>
+        <div class="food-list-column">
+            <ul class="food-list">
+                <li><strong>🍕 Pizza Italiana</strong> - Massa artesanal, mussarela, presunto, abacaxi e queijo - R$
+                    35,90</li>
+                <li><strong>🍣 Combo Sushi Premium</strong> - 12 peças sortidas: sushi, sashimi e hot roll - R$ 48,90
+                </li>
+                <li><strong>🥟 Salgados Sortidos</strong> - Coxinha, pastel, acarajé e bolinha de queijo - 8 peças - R$
+                    12,90</li>
+            </ul>
+        </div>
+    </div>
+    <p class="food-list-footer">Visite o <a href="/Home/Menu">Menu Completo</a> para fazer seu pedido!</p>
+</div>
