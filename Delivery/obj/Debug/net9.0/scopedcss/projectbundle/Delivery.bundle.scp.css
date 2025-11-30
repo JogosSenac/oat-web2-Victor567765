@@ -42,9 +42,13 @@ button.accept-policy[b-zqp0cnkcin] {
   line-height: inherit;
 }
 
+body[b-zqp0cnkcin] {
+  text-align: center;
+  object-position: center;
+  background-size: cover;
+}
+
 .footer[b-zqp0cnkcin] {
-  position: fixed;
-  bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;

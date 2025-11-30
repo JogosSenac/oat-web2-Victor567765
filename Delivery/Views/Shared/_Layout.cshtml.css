@@ -41,9 +41,13 @@ button.accept-policy {
   line-height: inherit;
 }
 
+body {
+  text-align: center;
+  object-position: center;
+  background-size: cover;
+}
+
 .footer {
-  position: fixed;
-  bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;

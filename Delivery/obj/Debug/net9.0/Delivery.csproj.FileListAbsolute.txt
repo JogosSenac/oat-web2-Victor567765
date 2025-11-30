@@ -23,7 +23,6 @@ C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\scopedcss\bundle\Delivery.styles.css
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\scopedcss\projectbundle\Delivery.bundle.scp.css
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\asgs67bx22-61n19gt1b8.gz
-C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\mrb7imcmfl-xtxxf3hu2r.gz
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\qrgktkpp3s-bqjiyaj88i.gz
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\kynecor5o8-c2jlpeoesf.gz
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\9cpgnu8koz-erw9l3u2r3.gz
@@ -92,6 +91,7 @@ C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\Delivery.pdb
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\Delivery.genruntimeconfig.cache
 C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\ref\Delivery.dll
-C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\vz5gzchxe1-shk598k6ix.gz
-C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\6jp0uwk4no-shk598k6ix.gz
-C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\jv4o1atukf-16rf7ao4fw.gz
+C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\vz5gzchxe1-ap7ov05pgx.gz
+C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\6jp0uwk4no-ap7ov05pgx.gz
+C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\mrb7imcmfl-ixjmqfkhve.gz
+C:\Users\user\OneDrive\Documentos\Victor-Unidesc\oat-web2-Victor567765\Delivery\obj\Debug\net9.0\compressed\jv4o1atukf-qcnp8szem3.gz
